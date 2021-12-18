@@ -15,3 +15,7 @@ Repositório dedicado aos códigos do curso de pytorch, todos os códigos tem um
 5. No código 3 o propósito foi realizar um tunning de parametros
 
 [código 3](https://github.com/Antonio-Borges-Rufino/PyTorch_Curso/blob/main/codigos/projeto3.ipynb)
+
+6. No código 4, a rede foi salva e depois foi carregada para se usar os pesos de um treinamento
+
+[código 4](https://github.com/Antonio-Borges-Rufino/PyTorch_Curso/blob/main/codigos/projeto4.ipynb)

@@ -19,3 +19,8 @@ Repositório dedicado aos códigos do curso de pytorch, todos os códigos tem um
 6. No código 4, a rede foi salva e depois foi carregada para se usar os pesos de um treinamento
 
 [código 4](https://github.com/Antonio-Borges-Rufino/PyTorch_Curso/blob/main/codigos/projeto4.ipynb)
+
+## 2. Projeto 2: Classificação multclasses
+ > OBS: Esse projeto deu errado, mas o que foi valioso foi a construção do projeto, inicialmente, é um projeto totalmente diferente do proposto pelo vídeo, aqui também montei uma biblioteca própria de validação cruzada, isso realmente vai ser usado ao longo do curso, substituindo o skorch, que achei inadequado 
+
+1. [código](https://github.com/Antonio-Borges-Rufino/PyTorch_Curso/blob/main/codigos/Projeto2_classM.ipynb)
